@@ -16,7 +16,6 @@
 - out
   - `record_audio.wav` — 録音した音声ファイル
   - `transcription_<タイムスタンプ>.txt` — 文字起こし結果の保存ファイル
-  - ``
 - src
   - `main.py` — メインの実行ファイル
   - `record.py` — 音声録音用のファイル

@@ -1,0 +1,5 @@
+ffmpeg-python>=0.2.0
+mlx-whisper>=0.4.3
+numpy>=2.3.4
+pydub>=0.25.1
+typed-ffmpeg>=3.7.1

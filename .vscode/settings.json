@@ -1,0 +1,12 @@
+{
+  "[python]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.ruff": "explicit",
+      "source.organizeImports.ruff": "explicit"
+    }
+  },
+  "python.testing.unittestArgs": ["-v", "-s", ".", "-p", "test_*.py"],
+  "python.testing.unittestEnabled": true,
+  "python-envs.defaultEnvManager": "ms-python.python:venv",
+  "python-envs.pythonProjects": []
+}
